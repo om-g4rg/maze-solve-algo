@@ -10,6 +10,7 @@ class maze{
         cin>>row;
         cout<<"col : ";
         cin>>col;
+        int x;
     }
 };
 int main(){
